@@ -17,7 +17,7 @@
 
 ## Cloning this repo
 ```cmd
-> git clone https://github.com/LoL-Human/Case-WA-Bot.git
+> git clone https://github.com/130N-STUDIO/rakabot
 > cd Case-WA-Bot
 ```
 
@@ -27,7 +27,7 @@
 ```
 
 ## Edit config file
-Edit the required value in `config.json`. You can get the api key at [`LoL Human Rest API`](http://api.lolhuman.xyz/).
+Edit the required value in `config.json`. You can get free api key at [`LoL Human Rest API`](http://api.lolhuman.xyz/).
 ```json
 {
     "apikey": "",
